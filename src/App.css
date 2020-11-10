@@ -1,0 +1,21 @@
+.App {
+  padding-top: 36px;
+  text-align: center;
+}
+
+.SeachForm-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.MovieList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.MovieList-item{
+  margin-bottom: 24px;
+  width: 48%;
+}
